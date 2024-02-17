@@ -1,12 +1,12 @@
 
 <h2 align="left">Hello 👋, I'm Elvis Durić</h2>
-<p align="" widht="300">A passionate Quality Assurance engineer and Automation Engineer from Bosnia and Herzegovina. I'm interested in quality assurance processes, web automation solution and automating tasks on computer to avoid manual repetitions.</p>
+<p align="" widht="300">A passionate Quality Assurance Engineer and Automation Engineer from Bosnia and Herzegovina. I'm interested in quality assurance processes, web automation solution and automating tasks on computer to avoid manual repetitions.</p>
 
 <a href="https://github.com/elvisduric"><img src="./images/profileViews.png" alt="ProfileViews" width="115" height="20"></a> 
 <a href="https://www.linkedin.com/in/elvisduric/"><img src="./images/linkedIn.png" alt="LinkedIn" width="65" height="20"></a>
 
 
-### 💻 `Tech Stack`
+### 💻 Tech Stack
 ![Playwright](https://img.shields.io/static/v1?style=flat&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -18,5 +18,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### 📊 `GitHub Stats`
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=elvisduric&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
