@@ -18,4 +18,3 @@
 ### 📊 GitHub Stats
 ![elvisduric's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisduric&theme=default&show_icons=true&hide_border=true&layout=compact)</br>
 ![elvisduric's Stats](https://github-readme-stats.vercel.app/api?username=elvisduric&theme=default&show_icons=true&hide_border=true&count_private=true)
-![elvisduric's Streak](https://github-readme-streak-stats.herokuapp.com/?user=elvisduric&theme=default&hide_border=true)
