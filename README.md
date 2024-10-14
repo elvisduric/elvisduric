@@ -16,4 +16,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=elvisduric&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![elvisduric's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisduric&theme=default&show_icons=true&hide_border=true&layout=compact)</br>
+![elvisduric's Stats](https://github-readme-stats.vercel.app/api?username=elvisduric&theme=default&show_icons=true&hide_border=true&count_private=true)
+![elvisduric's Streak](https://github-readme-streak-stats.herokuapp.com/?user=elvisduric&theme=default&hide_border=true)
