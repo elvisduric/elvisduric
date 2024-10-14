@@ -1,6 +1,6 @@
 
 <h2 align="left">Hello 👋, I'm Elvis Durić</h2>
-<p align="" widht="300">A passionate Quality Assurance Engineer and Automation Engineer from Bosnia and Herzegovina. I'm interested in quality assurance processes, web automation solution and automating tasks on computer to avoid manual repetitions.</p>
+<p align="" widht="300">A passionate Quality Assurance Engineer and Automation Engineer who is living in Lier, Norway. I'm interested in quality assurance processes, web automation solutions and automating tasks to avoid manual repetitions.</p>
 
 
 ### 💻 Tech Stack
